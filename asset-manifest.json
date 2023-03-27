@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/react-crypto-tracker-app/static/css/main.1dce2448.css",
+    "main.js": "/github.io/react-crypto-tracker-app/static/js/main.8a756f02.js",
+    "index.html": "/github.io/react-crypto-tracker-app/index.html",
+    "main.1dce2448.css.map": "/github.io/react-crypto-tracker-app/static/css/main.1dce2448.css.map",
+    "main.8a756f02.js.map": "/github.io/react-crypto-tracker-app/static/js/main.8a756f02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dce2448.css",
+    "static/js/main.8a756f02.js"
+  ]
+}
