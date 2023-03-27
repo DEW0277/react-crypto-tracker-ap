@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    position: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #000000 !important;
+
+}
+
+.green{
+    color: #008000;
+}
+
+.red{
+    color: #ff0000;
+}
+
+.crypto-image {
+    width: 40px;
+    margin-right: 15px;
+}
+
+Table{
+    background-color: #0c0c0c !important;
+    cursor: pointer;
+}
